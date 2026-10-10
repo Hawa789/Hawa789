@@ -1,9 +1,8 @@
 <p align="center">
   <a href="https://github.com/Hawa789">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=c0aedb&fontSize=54&height=90&width=986&text=Hello!%20I'm Hawa%20Doumbe%20Traore" alt="Hello! I&#39;mHawa Doumbe Traore" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=c0aedb&fontSize=54&height=90&width=986&text=Hello!%20I'm%20Hawa%20Doumbe%20Traore" alt="Hello! I'm Hawa Doumbe Traore" />
   </a>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=400&height=44&lines=Create%2C%20learn%2C%20evolve%20%F0%9F%A7%A0" alt="Typing headlines" />
 </p>
