@@ -5,7 +5,32 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=AI%20%26%20Python%20Enthusiast%20%7C%20Machine%20Learning%20%7C%20Networks%20%26%20Systems%20Building%20practical%20AI%20projects%20in%20NLP%2C%20anomaly%20detection%2C%20and%20intelligent%20systems." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=400&height=44&lines=Create%2C%20learn%2C%20evolve%20%F0%9F%A7%A0" alt="Typing headlines" />
+</p>
+
+### 🚀 About Me
+
+Networks &amp; Systems Graduate | AI &amp; Machine Learning | Python | Building Practical AI Projects
+
+🌱 &nbsp;I'm currently learning **Artificial Intelligence, Machine Learning, Deep Learning, and Python for AI.**  
+💬 &nbsp;Ask me about **Computer Networks, Linux, Network Administration, Python, and my AI projects.**  
+⚡ &nbsp;Fun fact: **I enjoy turning ideas into practical projects and exploring how AI can solve real-world problems.**
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="mailto:hawadtraore20@icloud.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ### 📊 GitHub Stats
